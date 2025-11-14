@@ -1,5 +1,5 @@
 
-<img src="https://avatars.githubusercontent.com/u/166271770?v=4" width="130px" align="left" style="border-radius: 10px; margin-right: 15px;" />
+<img src="https://media.discordapp.net/attachments/1433593909115617331/1433593909627453613/image_2025-10-10_125759495-Photoroom.png?ex=6917b6de&is=6916655e&hm=81b7d0903ec297b9950f6e9ff5e9eac4a85ddf45773d90b553ca1dc82bc00671&=&format=webp&quality=lossless&width=440&height=771" width="130px" align="left" style="border-radius: 10px; margin-right: 15px;" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFF&width=600&pause=1600&center=false&vCenter=false&repeat=true&lines=Introduction(%22senko-sleep%22);Welcome+to+my+README;I+code+projects+and+tools;Feel+free+to+check+out+some+of+my+projects)](https://git.io/typing-svg)
 
