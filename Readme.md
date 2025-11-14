@@ -1,8 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFF&width=600&pause=1600&center=false&vCenter=false&repeat=true&lines=Introduction(%22senko-sleep%22);Welcome+to+my+README;I+code+projects+and+tools;Feel+free+to+check+out+some+of+my+projects)](https://git.io/typing-svg)
 
 <img src="https://avatars.githubusercontent.com/u/166271770?v=4" width="130px" align="left" style="border-radius: 10px; margin-right: 15px;" />
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFF&width=600&pause=1600&center=false&vCenter=false&repeat=true&lines=Introduction(%22senko-sleep%22);Welcome+to+my+README;I+code+projects+and+tools;Feel+free+to+check+out+some+of+my+projects)](https://git.io/typing-svg)
+
+
 <br/><br/><br/>
+
 
 # About Me 
 ```powershell
@@ -45,3 +48,10 @@ function Set-UserProfile {
 }
 
 Set-UserProfile
+```
+
+<br/><br/><br/>
+
+<img src="https://i.pinimg.com/originals/50/0b/27/500b27120a0a261bfab28f0390bf48df.gif" width="100%" height="auto" />
+
+<br/><br/><br/>
